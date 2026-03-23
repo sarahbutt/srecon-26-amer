@@ -38,12 +38,17 @@
   .site-footer-credits {
     color: #AAAAAA !important;
   }
+  
+  /* Hide the default project name and tagline if desired */
+  .project-name { display: none !important; }
+  .project-tagline { display: none !important; }
 </style>
 
 # Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques
 
 ## Table of Contents
 * [Presenters](#presenters)
+* [Workshop Materials](#workshop-materials)
 * [Resources](#resources)
   * [Related SREcon26 Americas Conference Presentations](#related-srecon26-americas-conference-presentations)
   * [Related SREcon26 Americas Conference Discussion Sessions](#related-srecon26-americas-conference-discussion-sessions)
@@ -62,6 +67,14 @@
 * **Alex Elman**, Staff Engineer, Slack | [LinkedIn](https://www.linkedin.com/in/pkill/)
 * **Eric Dobbs**, Principal Incident Analyst, Oracle | [LinkedIn](https://www.linkedin.com/in/dobbse/)
 * **Hamed Silatani**, Co-founder/CEO, Uptime Labs | [LinkedIn](https://www.linkedin.com/in/hamed-silatani-a426538/)
+
+---
+
+## Workshop Materials
+
+* [Workshop Slides Deck](#) *(Replace the "#" with the link to your file)*
+* [Incident Transcripts Handout](#)
+* [Exercise Worksheet](#)
 
 ---
 
@@ -89,21 +102,21 @@
 
 ### Podcasts
 
-* [VOID Podcast - The Multi Party Dilemma Part 1](https://podcast.thevoid.community/1793843/episodes/17564236-uptime-labs-and-the-multi-party-dilemma-part-i)
-* [VOID Podcast - The Multi Party Dilemma Part 2](https://podcast.thevoid.community/1793843/episodes/17564423-uptime-labs-and-the-multi-party-dilemma-part-ii)
+* [VOID Podcast - The Multi-Party Dilemma Part 1](https://podcast.thevoid.community/1793843/episodes/17564236-uptime-labs-and-the-multi-party-dilemma-part-i)
+* [VOID Podcast - The Multi-Party Dilemma Part 2](https://podcast.thevoid.community/1793843/episodes/17564423-uptime-labs-and-the-multi-party-dilemma-part-ii)
 
 ### Conference Talks
 
-* [LFI Conference - Embracing the Multi Party Dilemma](https://www.youtube.com/watch?v=CbSiKAtO7Fk)
+* [LFI Conference - Embracing the Multi-Party Dilemma](https://www.youtube.com/watch?v=CbSiKAtO7Fk)
 * [LFI Conference - OREOS minus the milk: Deploying to the DoD in Staged Worlds Studies](https://www.youtube.com/watch?v=3SKxVyU0RmA)
 
 ### General Resources
 
 * [Resilience in Software Foundation](https://resilienceinsoftware.org/)
 * [Uptime Labs - Try the same simulation we discussed today!](https://uptimelabs.io/)
-* [No Such Thing as Free Lunch](https://slack.engineering/theres-no-such-thing-as-a-free-lunch/)
+* [No Such Thing as a Free Lunch](https://slack.engineering/theres-no-such-thing-as-a-free-lunch/)
 * [Practice of Practice](https://github.com/maroda/practiceofpractice)
 
 ### Papers
 
-* [Title of Paper Here](#) *(Replace this text with the paper title and the "#" with the URL or relative path to the PDF)*
+* [Handling the Multi-Party Dilemma](https://www.researchgate.net/publication/376354074_Handling_the_Multi-Party_Dilemma)
