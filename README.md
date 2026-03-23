@@ -1,3 +1,50 @@
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #FFFFFF; /* Crisp white text */
+    background-color: #2D2D2D; /* Dark grey from your slide background */
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  h1, h2, h3 {
+    color: #FFFFFF;
+    margin-top: 1.5em;
+  }
+  h1 {
+    font-size: 2.5em;
+    border-bottom: 3px solid #D96A39; /* Burnt orange accent from the right block */
+    padding-bottom: 10px;
+  }
+  h2 {
+    font-size: 1.75em;
+    border-bottom: 1px solid #555555; /* Subtle grey divider */
+    padding-bottom: 8px;
+  }
+  a {
+    color: #ED9C3B; /* Brighter orange from the middle block for readable links */
+    text-decoration: none;
+    font-weight: 500;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: #D96A39; /* Switches to the burnt orange when hovered */
+  }
+  ul {
+    padding-left: 20px;
+  }
+  li {
+    margin-bottom: 8px;
+  }
+  hr {
+    border: 0;
+    height: 1px;
+    background: #555555; /* Matches the subtle grey divider */
+    margin: 30px 0;
+  }
+</style>
+
 # Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques
 
 ## Table of Contents
