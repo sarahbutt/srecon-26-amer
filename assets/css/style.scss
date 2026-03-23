@@ -1,0 +1,46 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Dark mode background and white text */
+body {
+  background-color: #2D2D2D;
+  color: #F0F0F0;
+}
+
+.main-content {
+  color: #F0F0F0;
+}
+
+/* Change the Cayman header gradient to match your orange accents */
+.page-header {
+  background-color: #D96A39;
+  background-image: linear-gradient(120deg, #D96A39, #ED9C3B);
+}
+
+/* Make sure all headings in the text are white */
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 {
+  color: #FFFFFF;
+}
+
+/* Use the bright orange for links so they are readable on dark grey */
+a, 
+.main-content a {
+  color: #ED9C3B;
+}
+
+a:hover, 
+.main-content a:hover {
+  color: #D96A39;
+}
+
+/* Darken the footer line to match the dark theme */
+.site-footer {
+  border-top-color: #555555;
+  color: #AAAAAA;
+}
