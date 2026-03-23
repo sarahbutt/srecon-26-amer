@@ -1,3 +1,45 @@
+<style>
+  /* Dark mode background and white text */
+  body, .main-content {
+    background-color: #2D2D2D !important;
+    color: #F0F0F0 !important;
+  }
+  
+  /* Change the Cayman header gradient to match your orange accents */
+  .page-header {
+    background-color: #D96A39 !important;
+    background-image: linear-gradient(120deg, #D96A39, #ED9C3B) !important;
+  }
+  
+  /* Make sure all headings in the text are crisp white */
+  .main-content h1, 
+  .main-content h2, 
+  .main-content h3, 
+  .main-content h4, 
+  .main-content h5, 
+  .main-content h6 {
+    color: #FFFFFF !important;
+  }
+  
+  /* Use the bright orange for links so they are readable on dark grey */
+  .main-content a {
+    color: #ED9C3B !important;
+  }
+  
+  .main-content a:hover {
+    color: #D96A39 !important;
+  }
+  
+  /* Darken the footer line to match the dark theme */
+  .site-footer {
+    border-top-color: #555555 !important;
+    color: #AAAAAA !important;
+  }
+  .site-footer-credits {
+    color: #AAAAAA !important;
+  }
+</style>
+
 # Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques
 
 ## Table of Contents
