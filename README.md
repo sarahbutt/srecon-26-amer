@@ -10,6 +10,11 @@
     background-color: #D96A39 !important;
     background-image: linear-gradient(120deg, #D96A39, #ED9C3B) !important;
   }
+
+  /* Make sure the title in the orange banner is white */
+  .project-name, .project-tagline {
+    color: #FFFFFF !important;
+  }
   
   /* Make sure all headings in the text are crisp white */
   .main-content h1, 
@@ -38,13 +43,7 @@
   .site-footer-credits {
     color: #AAAAAA !important;
   }
-  
-  /* Hide the default project name and tagline if desired */
-  .project-name { display: none !important; }
-  .project-tagline { display: none !important; }
 </style>
-
-# Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques
 
 ## Table of Contents
 * [Presenters](#presenters)
