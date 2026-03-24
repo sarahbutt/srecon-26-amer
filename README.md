@@ -48,6 +48,10 @@
 ## Table of Contents
 * [Presenters](#presenters)
 * [Workshop Materials](#workshop-materials)
+  * [Transcripts](#transcripts)
+  * [Chat Snippets](#chat-snippets)
+  * [Grafana Screenshots](#grafana-screenshots)
+  * [Other Resources](#other-resources)
 * [Resources](#resources)
   * [Related SREcon26 Americas Conference Presentations](#related-srecon26-americas-conference-presentations)
   * [Related SREcon26 Americas Conference Discussion Sessions](#related-srecon26-americas-conference-discussion-sessions)
@@ -71,9 +75,28 @@
 
 ## Workshop Materials
 
-* [Workshop Slides Deck](#) *(Replace the "#" with the link to your file)*
-* [Incident Transcripts Handout](#)
-* [Exercise Worksheet](#)
+* [Workshop Slide Deck](https://docs.google.com/presentation/d/1VcteO_rz6bj-Qx3_L8QiZhKmbQAm3jlgbKht93fIhno/edit?slide=id.gcb9a0b074_1_0#slide=id.gcb9a0b074_1_0)
+
+### Transcripts
+* [Dylan and Clint Transcript](Dylan%20Clint%20Transcript%20SRECon.pdf)
+* [Sarah and Alex Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
+* [Vanessa and David Transcript](Vanessa%20David%20Transcript%20SRECon.pdf)
+
+### Chat Snippets
+* [Chat When Issue is Reported](OB_Chat_log_when_issue_is_reported.png)
+* [Chat During Temporary Recovery](OB_Temporary_recovery.png)
+* [DR Chat](OB_Chat_DR_Chat.png)
+
+### Grafana Screenshots
+* [Grafana Dashboard Before Incident](OB_Grafana_Before_incident.png)
+* [Grafana Dashboard Temporary Recovery](OB_Grafana_Temporary_Recovery.png)
+* [Grafana During Incident](OB_Grafana_when_issue_happens.png)
+
+### Other Resources
+* [Architecture Diagram](OB_Architecture.png)
+* [Org Chart](OB_Org_chart.png)
+* [Broken Site Image](OB_Broken_site.png)
+* [Working Site Image](OB_Website.png)
 
 ---
 
@@ -106,7 +129,7 @@
 
 ### Conference Talks
 
-* [LFI Conference - Embracing the Multi-Party Dilemma](https://www.youtube.com/watch?v=CbSiKAtO7Fk)
+* [LFI Conference - Embracing the Multi-Party Dilemma](https://www.youtube.com/watch?v=Veq7VUbPwWo)
 * [LFI Conference - OREOS minus the milk: Deploying to the DoD in Staged Worlds Studies](https://www.youtube.com/watch?v=3SKxVyU0RmA)
 
 ### General Resources
@@ -119,3 +142,7 @@
 ### Papers
 
 * [Handling the Multi-Party Dilemma](https://www.researchgate.net/publication/376354074_Handling_the_Multi-Party_Dilemma)
+* [How Complex Systems Fail](https://how.complexsystems.fail/)
+* [Engaging Experts: Comparing Findings from Story Elicitation and a Staged-World Study of Paramedics](https://www.researchgate.net/publication/261699293_Engaging_Experts_Comparing_Findings_from_Story_Elicitation_and_a_Staged-World_Study_of_Paramedics)
+* [A Tale of Two Stories: Contrasting Views of Patient Safety](https://www.scribd.com/document/366008554/A-Tale-of-Two-Stories)
+* [Understanding Cognitive Work](https://www.adaptivecapacitylabs.com/UnderstandingCognitiveWorkStagedWorlds.pdf)
