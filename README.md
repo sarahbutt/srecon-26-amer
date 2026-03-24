@@ -76,7 +76,7 @@
 ## Workshop Materials
 
 * [Workshop Slide Deck](https://docs.google.com/presentation/d/1VcteO_rz6bj-Qx3_L8QiZhKmbQAm3jlgbKht93fIhno/edit?slide=id.gcb9a0b074_1_0#slide=id.gcb9a0b074_1_0)
-
+ 
 ### Transcripts
 * [(Group 1) Dylan and Clint Transcript](Dylan%20Clint%20Transcript%20SRECon.pdf)
 * [(Group 2) Sarah and Alex Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
