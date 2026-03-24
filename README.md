@@ -78,9 +78,9 @@
 * [Workshop Slide Deck](https://docs.google.com/presentation/d/1VcteO_rz6bj-Qx3_L8QiZhKmbQAm3jlgbKht93fIhno/edit?slide=id.gcb9a0b074_1_0#slide=id.gcb9a0b074_1_0)
 
 ### Transcripts
-* [Dylan and Clint Transcript](Dylan%20Clint%20Transcript%20SRECon.pdf)
-* [Sarah and Alex Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
-* [Vanessa and David Transcript](Vanessa%20David%20Transcript%20SRECon.pdf)
+* [(Group 1) Dylan and Clint Transcript](Dylan%20Clint%20Transcript%20SRECon.pdf)
+* [(Group 2) Sarah and Alex Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
+* [(Group 3) Vanessa and David Transcript](Vanessa%20David%20Transcript%20SRECon.pdf)
 
 ### Chat Snippets
 * [Chat When Issue is Reported](OB_Chat_log_when_issue_is_reported.png)
