@@ -135,7 +135,7 @@
 ### General Resources
 
 * [Resilience in Software Foundation](https://resilienceinsoftware.org/)
-* [Uptime Labs - Try the same simulation we discussed today!](https://uptimelabs.io/)
+* [Uptime Labs - Try a similar simulation to the one we discussed today!](https://uptimelabs.io/)
 * [No Such Thing as a Free Lunch](https://slack.engineering/theres-no-such-thing-as-a-free-lunch/)
 * [Practice of Practice](https://github.com/maroda/practiceofpractice)
 
