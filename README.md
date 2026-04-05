@@ -146,3 +146,6 @@
 * [Engaging Experts: Comparing Findings from Story Elicitation and a Staged-World Study of Paramedics](https://www.researchgate.net/publication/261699293_Engaging_Experts_Comparing_Findings_from_Story_Elicitation_and_a_Staged-World_Study_of_Paramedics)
 * [A Tale of Two Stories: Contrasting Views of Patient Safety](https://www.scribd.com/document/366008554/A-Tale-of-Two-Stories)
 * [Understanding Cognitive Work](https://www.adaptivecapacitylabs.com/UnderstandingCognitiveWorkStagedWorlds.pdf)
+
+### License
+<a href="https://sarahbutt.github.io/srecon-26-amer/">Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques—SREcon26 Americas Workshop Materials</a> © 2026 by Courtney Nash, Sarah Butt, Alex Elman, Eric Dobbs, Hamed Silatani is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
